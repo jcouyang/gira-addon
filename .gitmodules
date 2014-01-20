@@ -1,0 +1,3 @@
+[submodule "gira"]
+	path = gira
+	url = git@github.com:jcouyang/gira.git
